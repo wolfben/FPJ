@@ -1,0 +1,31 @@
+﻿@{
+    var CurrentUser = ViewBag.CurrentUser as UserLoginVM;
+}
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="/Content/bootstrap/3.3.5/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="/Content/css/style.css" />
+    <script src="/Content/js/jquery-3.1.0.min.js"></script>
+</head>
+<body>
+    <div>
+        @if (CurrentUser != null)
+        {
+            <span>当前登录用户：@CurrentUser.UserName</span>
+            <span><a href="/user/loginout">注销</a></span>
+        }
+        else
+        {
+            <span><a href="/user/login">登录</a></span>
+        }
+    </div>
+    @RenderBody()
+    <script src="/Content/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+D:\工作\Git\trunk\FPJ\FPJ.Enum\bin\Debug\FPJ.Enum.dll
+D:\工作\Git\trunk\FPJ\FPJ.Enum\bin\Debug\FPJ.Enum.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.dll
+D:\工作\Git\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.pdb
+D:\工作\Git\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.csprojResolveAssemblyReference.cache
+D:\Download\FPJ-master\FPJ-master\trunk\FPJ\FPJ.Enum\bin\Debug\FPJ.Enum.dll
+D:\Download\FPJ-master\FPJ-master\trunk\FPJ\FPJ.Enum\bin\Debug\FPJ.Enum.pdb
+D:\Download\FPJ-master\FPJ-master\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.dll
+D:\Download\FPJ-master\FPJ-master\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.pdb
+D:\Download\FPJ-master\FPJ-master\trunk\FPJ\FPJ.Enum\obj\Debug\FPJ.Enum.csprojResolveAssemblyReference.cache
